@@ -1,0 +1,7 @@
+◇ injected env (1) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Server running at http://localhost:3000
+[2026-09-17T20:35:15.903Z] GET /
+[2026-09-17T20:35:15.924Z] POST /user
+[2026-09-17T20:35:15.931Z] POST /user
+[2026-09-17T20:35:15.937Z] GET /user/1
+[2026-09-17T20:35:15.943Z] GET /user/99

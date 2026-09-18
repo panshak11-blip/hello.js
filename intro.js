@@ -1,6 +1,6 @@
 // intro.js
 
-const name = "Panshak";
+const name = "Panshak Ruben";
 const age = 20;
 const favouriteLanguage = "HTML and CSS";
 
